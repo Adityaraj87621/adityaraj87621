@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adityaraj87621@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1-5whgwRAPfBFOfqMY74zI7v1btX__XL2A8MiZSJ8HwA/edit?usp=sharing](https://docs.google.com/document/d/1-5whgwRAPfBFOfqMY74zI7v1btX__XL2A8MiZSJ8HwA/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1-5whgwRAPfBFOfqMY74zI7v1btX__XL2A8MiZSJ8HwA/edit?usp=sharing](https://drive.google.com/file/d/1L5DuuG4FFnda5Gq6L3D5uoezhNPy8NNH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src= "https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
